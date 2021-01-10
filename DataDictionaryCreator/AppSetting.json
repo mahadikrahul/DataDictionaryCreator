@@ -1,0 +1,12 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionString": "Data Source=JARVIS\\SQL2016;Initial Catalog=CarbsNPro;Integrated Security=True",
+  "FilePath": "F:\\Docs\\Test Docs\\"
+}
